@@ -1,0 +1,28 @@
+---
+---
+
+@import "minima";
+$text-color: #fff !default;
+$text-color-dark: darken($text-color, 25%);
+$background-color: #2B2B2B !default;
+$brand-color: #1f936a !default;
+
+.site-title, .site-title:visited {
+    color: #fff;
+}
+
+.site-header {
+    border-bottom: 2px solid $brand-color;
+}
+
+.site-footer {
+    border-top: 1px solid $brand-color;
+}
+
+a {
+    color: lighten($brand-color, 15%)
+}
+
+a:visited {
+    color: lighten($brand-color, 5%);
+}
