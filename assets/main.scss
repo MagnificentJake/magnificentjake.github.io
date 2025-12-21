@@ -38,3 +38,11 @@ a:visited {
     padding: 10%;
     max-height: 200px;
 }
+
+.site-nav {
+    float: none;
+    margin: auto;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
