@@ -46,3 +46,17 @@ a:visited {
     width: 100%;
     justify-content: center;
 }
+
+@media screen and (max-width: 600px) {
+    .site-nav {
+        display: inline-block;
+        position: relative;
+        top: 0px;
+        right: 0px;
+        margin-bottom: 1em;
+    }
+
+    .site-nav .menu-icon > svg {
+        fill: $brand-color;
+    }
+}
