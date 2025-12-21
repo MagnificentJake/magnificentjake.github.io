@@ -26,3 +26,15 @@ a {
 a:visited {
     color: lighten($brand-color, 5%);
 }
+
+.site-title
+{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.site-title img {
+    padding: 10%;
+    max-height: 200px;
+}
