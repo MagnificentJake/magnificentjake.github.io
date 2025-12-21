@@ -5,7 +5,7 @@
 layout: home
 ---
 
-*This place is still under construction, but there's still plenty to poke around and see.*
+🚧 *This place is still under construction – bear with me – but there's still plenty to poke around and see.* 🚧
 {: style="text-align: center; color: #777;"}
 <br>
 

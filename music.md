@@ -12,7 +12,7 @@ I play bass in [Triptych](https://officialtriptych.bandcamp.com), and have done 
 
 <div class="video-player"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/DPxiQwIVmHA?si=vmJYwQT-TtwbuuYc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
-<div class="embed-center"><iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1085517330/size=large/bgcol=333333/linkcol=e99708/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://officialtriptych.bandcamp.com/album/sundown">Sundown by Triptych</a></iframe></div>
+<div class="embed-center"><iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1085517330/size=large/bgcol=333333/linkcol=977f0a/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://officialtriptych.bandcamp.com/album/sundown">Sundown by Triptych</a></iframe></div>
 
 <div class="embed-center"><iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7g4pF7aSODCthnnRJdx9n2?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe></div>
 
@@ -27,4 +27,4 @@ In 2020 (mere weeks before the world collapsed), I had the pleasure of assisting
 
 The first single released in December 2021, with the full album releasing in May 2022.
 
-<div class="embed-center"><iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2446006963/size=large/bgcol=333333/linkcol=e32c14/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://megalomatic.bandcamp.com/album/the-benbecula-tree">The Benbecula Tree by Megalomatic</a></iframe></div>
+<div class="embed-center"><iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2446006963/size=large/bgcol=333333/linkcol=fa381d/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://megalomatic.bandcamp.com/album/the-benbecula-tree">The Benbecula Tree by Megalomatic</a></iframe></div>
