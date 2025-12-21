@@ -17,4 +17,4 @@ I'm currently in the final stages of a PhD in Audio Augmented Reality, exploring
 
 I'm on the lookout for new projects in game audio, sound design, or audio research. If you have a project like that then [shoot me an email](mailto:jakebhattacharyya@gmail.com), I'd love to hear from you!
 
-<center><iframe width="100%" height="460" src="https://www.youtube.com/embed/73lI4j1685M" title="Jake Bhattacharyya - Audio Showreel (Winter 2025)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+<div class = "video-player"><iframe width="100%" height = "100%" src="https://www.youtube.com/embed/73lI4j1685M" title="Jake Bhattacharyya - Audio Showreel (Winter 2025)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>

@@ -47,6 +47,27 @@ a:visited {
     justify-content: center;
 }
 
+.video-player {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.video-player iframe {
+    padding: 2.5%;
+}
+
+div.embed-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div.embed-center iframe {
+    padding:2.5%;
+}
+
 @media screen and (max-width: 600px) {
     .site-nav {
         display: inline-block;
