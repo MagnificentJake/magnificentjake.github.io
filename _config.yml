@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jake Bhattacharyya - Sound Designer and Audio Engineer
-email: jakebhattacharyya@gmail.com
+title: Jake Bhattacharyya | Sound Designer | Audio Engineer | Game Sound
+email: hello@sonicjake.com
 description: >- # this means to ignore newlines until "baseurl:"
   I'm Jake – a sound designer, audio engineer, and overall aural person, focusing on sound work for games, interactive applications, and linear media.
 baseurl: "" # the subpath of your site, e.g. /blog
