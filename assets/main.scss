@@ -1,6 +1,5 @@
 ---
 ---
-{
 @import "minima";
 $text-color: #fff !default;
 $text-color-dark: darken($text-color, 25%);
@@ -120,5 +119,4 @@ width: 35%;
     .site-nav .menu-icon > svg {
         fill: $brand-color;
     }
-}
 }

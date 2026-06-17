@@ -8,6 +8,8 @@ I completed my PhD in June 2026, which was focused on **audio augmented reality*
 
 The best place to see a full list of my research outputs is probably through my [Google Scholar Page](https://scholar.google.co.uk/citations?user=8hV4XXEAAAAJ&hl=en), but some are also listed below.
 
+<div class="citation">If, for some reason, you want to read my PhD thesis, it's available <a href="../assets/2026bhattacharyyaphd.pdf">here</a>.</div>
+
 ### Selected Publications
 
 #### Birds of a Feather Augment Together: Exploring Sonic Links Between Real and Virtual Worlds in Audio Augmented Reality \[ISMAR 2025]
