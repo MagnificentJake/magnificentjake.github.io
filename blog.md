@@ -11,6 +11,7 @@ permalink: /blog/
       &raquo; 
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
       {{ post.excerpt }}
+      <a class="blog-continue-button" href="{{ post.url | relative_url }}">Continue reading</a>
     </li>
   {% endfor %}
 </ul>

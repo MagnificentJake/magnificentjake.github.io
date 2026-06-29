@@ -108,6 +108,15 @@ div.post-hero img {
     width: 75%;
 }
 
+a.blog-continue-button {
+    color: $text-color;
+    display: inline-block;
+    margin-top: 1em;
+    padding: 1em;
+    background-color: $brand-color;
+    border-radius: 5px;
+}
+
 div.embed-center audio {
     width: 100%;
 }
