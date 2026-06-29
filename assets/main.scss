@@ -34,6 +34,17 @@ a:visited {
     color: lighten($brand-color, 5%);
 }
 
+ul {
+    list-style-type: square;
+}
+
+ul li::marker {
+    color: $brand-color;
+    font-size: 135%;
+    //content: '◆\00a0\00a0\00a0';
+    //margin-inline: 1em;
+}
+
 .site-title
 {
     display: flex;
@@ -70,6 +81,10 @@ div.embed-center {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    padding: 2.5%;
 }
 
 div.citation {
@@ -87,6 +102,82 @@ div.project-context {
     margin-bottom: 1%;
     border-radius: 5px;
     color: $text-color-dark;
+}
+
+div.post-hero img {
+    width: 75%;
+}
+
+div.embed-center audio {
+    width: 100%;
+}
+div.caption {
+    margin-top: 1em;
+    //margin-bottom: 1em;
+    color: $text-color-dark;
+}
+
+.dark-text {
+    color: $text-color-dark;
+}
+
+// Animations
+span.rainbow-text {
+    animation: rainbow 5s linear infinite;
+}
+
+@keyframes rainbow {
+    0% {
+        color: #e81416;
+    }
+    15% {
+        color: #ffa500;
+    }
+    30% {
+        color: #faeb36;
+    }
+    45% {
+        color: #79c314;
+    }
+    60% {
+        color: #487de7;
+    }
+    75% {
+        color: #4b369d;
+    }
+    90% {
+        color: #70369d;
+    }
+    100% {
+        color: #e81416;
+    }
+}
+
+span.bounce-text{
+    display: inline-block;
+    animation: wave 2s ease-in-out infinite;
+}
+
+@keyframes wave {
+    0%, 100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-35%);
+    }
+}
+
+span.shake-text {
+    display: inline-block;
+    animation: shaking 0.2s infinite;
+}
+
+@keyframes shaking {
+  0% { transform: translate(0, 0) rotate(0deg); }
+  25% { transform: translate(0.1rem, 0.1rem) rotate(0deg); }
+  50% { transform: translate(0, 0) rotate(0deg); }
+  75% { transform: translate(-0.1rem, 0.1rem) rotate(-0deg); }
+  100% { transform: translate(0, 0) rotate(0deg); }
 }
 
 

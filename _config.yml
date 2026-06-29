@@ -23,7 +23,7 @@ email: hello@sonicjake.com
 description: >- # this means to ignore newlines until "baseurl:"
   I'm Jake – a sound designer, audio engineer, and overall aural person, focusing on sound work for games, interactive applications, and linear media.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://sonicjake.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: JakeMagnificent
 github_username:  MagnificentJake
 linkedin_username: jakebhattacharyya
@@ -33,8 +33,13 @@ header_pages:
   - gameaudio.md
   - music.md
   - research.md
+  - blog.md
+  - contact.md
 
 show_excerpts: true
+
+# Reels
+main-reel: https://www.youtube.com/embed/73lI4j1685M # ! Need to use a YT Embed URL !
 
 
 
