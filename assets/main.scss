@@ -65,6 +65,14 @@ ul li::marker {
     justify-content: center;
 }
 
+img.profile-image {
+    height: 15em;
+    width: auto;
+    float: right;
+    margin: 1em;
+    border-radius: 50%;
+}
+
 .video-player {
     width: 100%;
     aspect-ratio: 16 / 9;

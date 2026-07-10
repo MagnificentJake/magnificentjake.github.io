@@ -5,6 +5,8 @@
 layout: home
 ---
 
+<img class="profile-image" src="/assets/img/JakeBhattacharyya_ProfileImage.jpg">
+
 Hi chums!
 
 I'm Jake – a sound designer, audio engineer, and overall aural person, with a focus on sound work for games, immersive applications, and linear media.
