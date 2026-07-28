@@ -13,7 +13,7 @@ I love working on game audio, and have experience in sound design, technical gam
 </div>
 I got brought on in August of 2025 to revamp the game audio for the best damn free-market-economic-colony-giant-bug simulator of all time, Mercantisle, before its 1.0 release in March 2026. As the sole audio person on the team, I was responsible for all aspects of audio, rebuilding the entire soundscape from the ground up (excluding the excellent musical soundtrack composed by [Helena Ricci](https://www.helenaricci.com)), designing more than 200 new assets, implementing new audio systems, and revamping the mix to ensure a superior, cohesive experience for the player. The game is available on [Steam](https://store.steampowered.com/app/2909270/Mercantisle/), and you can see some of it in my showreel below. I'd like to do a deep dive on the sound design here at some point, so watch this space if vegetable impulse responses sound interesting to you.
 
-<div class="video-player"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/73lI4j1685M" title="Jake Bhattacharyya - Audio Showreel (Winter 2025)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<div class="video-player"><iframe width="100%" height="100%" src="{{site.main-reel}}" title="Jake Bhattacharyya - Audio Showreel (Winter 2025)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 ### SPIRE – Masters Project (2022)
 <div class="project-context">
